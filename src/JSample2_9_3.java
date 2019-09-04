@@ -1,0 +1,5 @@
+class JSample2_9_3{
+  public static void main(String args[]){
+	System.out.println("\u7a7a\u4e2d\u653e\u6cb945\u5428\uff0c\u4e1c\u822a\u98de\u7f8e\u822a\u73ed\u7d27\u6025\u5907\u964d\u4e1c\u4eac\uff0c\u6551\u4eba\u4e00\u547d\uff01");
+	}
+}
